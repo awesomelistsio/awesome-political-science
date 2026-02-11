@@ -108,6 +108,7 @@ Political Science is the study of politics, government systems, political behavi
 - [The Electoral Integrity Project](https://www.electoralintegrityproject.com/) – Assessment and data on electoral processes worldwide.
 - [U.S. Election Assistance Commission](https://www.eac.gov/) – U.S. federal resource on election administration.
 - [OpenElections](https://github.com/openelections) – Open-source election results data for U.S. states.
+- [Absurdity Index](https://absurdityindex.org/) – Scores real U.S. federal legislation on a 1-10 absurdity scale and publishes satirical common-sense alternative bills. Public JSON API.
 
 ## Governance & Institutions
 
