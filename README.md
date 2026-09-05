@@ -1,4 +1,4 @@
-# Awesome Political Science [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Political Science [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -117,11 +117,11 @@ Political Science is the study of politics, government systems, political behavi
 
 ## Related Awesome Lists
 
-- **[Awesome Open Science](https://github.com/awesomelistsio/awesome-open-science)** – Open research tools and resources.
-- **[Awesome Climate Change](https://github.com/awesomelistsio/awesome-climate-change)** – Resources on climate science, policy, and activism.
-- **[Awesome G7](https://github.com/awesomelistsio/awesome-g7)** – Information and resources on G7 nations and policies.
-- **[Awesome Journalism](https://github.com/awesomelistsio/awesome-journalism)** – Tools and resources for investigative and data journalism.
-- **[Awesome Human Rights](https://github.com/awesomelistsio/awesome-human-rights)** – Tools and platforms for human rights research and advocacy.
+- **[Awesome Open Science](https://github.com/brandonhimpfen/awesome-open-science)** – Open research tools and resources.
+- **[Awesome Climate Change](https://github.com/brandonhimpfen/awesome-climate-change)** – Resources on climate science, policy, and activism.
+- **[Awesome G7](https://github.com/brandonhimpfen/awesome-g7)** – Information and resources on G7 nations and policies.
+- **[Awesome Journalism](https://github.com/brandonhimpfen/awesome-journalism)** – Tools and resources for investigative and data journalism.
+- **[Awesome Human Rights](https://github.com/brandonhimpfen/awesome-human-rights)** – Tools and platforms for human rights research and advocacy.
   
 ## Contribute
 
